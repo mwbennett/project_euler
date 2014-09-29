@@ -22,3 +22,7 @@ What is the value of the first triangle number to have over five hundred divisor
 
 =end
 
+def divisor_count(num)
+  
+
+end
